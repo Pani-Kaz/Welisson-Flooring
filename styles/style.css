@@ -71,7 +71,7 @@
 #home {
     width: 100%;
     height: calc(100vh - 96px);
-    background-image: url('/images/CFNdbyc6wzkWf0Vo4vnymCqcNt8.png');
+    background-image: url('/Welisson-Flooring/images/CFNdbyc6wzkWf0Vo4vnymCqcNt8.png');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 100%;
@@ -250,7 +250,7 @@
     padding: 96px 30px;
     width: calc(100% - 60px);
     z-index: 1;
-    height: 35vh;
+    min-height: 35vh;
 }
 
 
